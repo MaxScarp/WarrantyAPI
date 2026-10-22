@@ -3,7 +3,7 @@ Servizio REST per la gestione di veicoli e pratiche di garanzia. Lo sto scrivend
 
 Stack: .NET 10, ASP.NET Core Web API con controller, Entity Framework Core su SQL Server, NUnit per i test.
 
-##Struttura
+## Struttura
 - WarrantyApi: il servizio
 - WarrantyApi.Tests: i test
 
